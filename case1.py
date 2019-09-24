@@ -1,4 +1,7 @@
-
+#Case-Study №1
+#Developers: Manko Andrey (20%)
+#            Borodkin Denis (20%)
+#            Mauter Akeksandr (60%)
 import turtle
 import math
 
